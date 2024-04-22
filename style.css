@@ -1,0 +1,49 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.navbar ul{
+    margin-left: 390px;
+}
+.navbar ul li{
+    padding-top: 10px;
+    padding-left: 20px;
+}
+.navbar ul li a{
+    color: black;
+}
+.bg-warning{
+    background: orange;
+}
+.rounded-pill-3{
+  padding: 5px 20px;
+  border-radius: 80px;
+}
+.top-right{
+    z-index: -2;
+    background: orange;
+    width: 600px;
+    height: 70vh;
+    margin-left: 780px;
+    margin-top: -620px;
+    border-bottom-left-radius: 600px;
+    position: absolute;
+}
+.bottom{
+    z-index: -2;
+    background: orange;
+    width: 160px;
+    height: 170px;
+    margin-top: -30px;
+    border-top-right-radius: 600px;
+    position: absolute;
+
+}
+img{
+    width: 270px;
+    height: 230px;
+    margin-left: 90px;
+    border-radius: 90px;
+    
+}
